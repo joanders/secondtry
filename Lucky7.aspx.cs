@@ -12,8 +12,8 @@ public partial class lucky7 : System.Web.UI.Page
         if (IsPostBack)
         {
             //something happens on the 2nd, 3rd, etc. loading of the page
-            //change1
-            //change2
+            //change 1
+            
            
             
             var rnd = new System.Random();
