@@ -13,6 +13,7 @@ public partial class lucky7 : System.Web.UI.Page
         {
             //something happens on the 2nd, 3rd, etc. loading of the page
             //change 1
+            //change 2
             
            
             
